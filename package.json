@@ -12,5 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "jsdoc": "^4.0.0"
-  }
+  },
+  "homepage": "https://bin8727.github.io/wanted-pre-onboarding-challenge-fe-2/"
 }
